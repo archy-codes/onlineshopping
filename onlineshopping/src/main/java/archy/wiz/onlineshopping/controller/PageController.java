@@ -5,7 +5,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-import archy.wiz.shoppingbackend.dao.CategoryDAO;
+import archy.wiz.onlineshoppingbackend.dao.CategoryDAO;
 
 @Controller
 public class PageController {
